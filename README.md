@@ -1,2 +1,2 @@
-# Inn-Sight-
+# Inn-Sight
 Built with Python and SQL. It leverages relational databases for efficient data storage and retrieval, efficiently organizes hotel operations. It handles reservations, guest check-ins, room assignments, and billing. The system integrates database management for seamless data storage and retrieval, ensuring effective management of hotel resources and enhancing guest satisfaction through streamlined operations and service delivery.
